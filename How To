@@ -1,0 +1,8 @@
+Termux:
+pkg upgrade && update
+pkg install git && pkg install python && python -m http.server 8080
+
+After:
+Enter the Google
+Search Bar write this in the section 127.0.0.1:8080
+And Finished
